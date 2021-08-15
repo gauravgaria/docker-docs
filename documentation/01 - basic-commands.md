@@ -1,8 +1,8 @@
 # Basic Docker Commands
 
-- Check if docker is installed
+- Check if docker is installed and other information related to it
 
-  - `which docker`
+  - `docker info`
 
 - Check docker version
 
