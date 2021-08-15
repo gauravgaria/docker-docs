@@ -2,7 +2,7 @@
 
 - For Linux refer
 
-  - 
+  -
 
 - For Windows refer
 
