@@ -2,8 +2,8 @@
 
 - Check if docker is installed
 
-  - which docker
+  - <mark>which docker</mark>
 
 - Check docker version
 
-  - docker -v OR docker --version
+  - <mark>docker -v OR docker --version</mark>
